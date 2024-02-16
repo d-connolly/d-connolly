@@ -4,7 +4,7 @@ Hi 👋 My name is Declan
 Aspiring Data Analyst
 ---------------------
 
-Soon to finish a Level 3 Data Bootcamp, I seek my first role as a data analyst. Organised, articulate and quick-to-learn; I am committed to develop the professional experience required to build-on the technical acumen established in recent months. My professional experience carries a strong administrative skillset from a financial services environment, where I earned an OCR Level 3 NVQ Diploma in Business and Administration. My focus is to attentively contribute to team enterprise whilst managing individual responsibility.
+Having recently finished a Level 3 Data Bootcamp, I seek my first role as a data analyst. Organised, articulate and quick-to-learn; I am committed to develop the professional experience required to build-on the technical acumen established in recent months. My professional experience carries a strong administrative skillset from a financial services environment, where I earned an OCR Level 3 NVQ Diploma in Business and Administration. My focus is to attentively contribute to team enterprise whilst managing individual responsibility.
 
 *   🌍  I'm based in London
 *   ✉️  You can contact me at [d.connolly@outlook.com](mailto:d.connolly@outlook.com)

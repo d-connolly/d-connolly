@@ -4,7 +4,7 @@ Hi 👋 My name is Declan
 Aspiring Data Analyst
 ---------------------
 
-Having recently finished a Level 3 Data Bootcamp, I seek my first role as a data analyst. Organised, articulate and quick-to-learn; I am committed to develop the professional experience required to build-on the technical acumen established in recent months. My professional experience carries a strong administrative skillset from a financial services environment, where I earned an OCR Level 3 NVQ Diploma in Business and Administration. My focus is to attentively contribute to team enterprise whilst managing individual responsibility.
+Hi, I’m Declan! I’m an aspiring Data Analyst who recently completed a Level 3 Data Bootcamp with JustIT. Passionate about generating value-adding insight, I’m keen to discover opportunities to test new data analysis skills using Python, SQL and Tableau (among others!). A self-starter who is organised, articulate and quick-to-learn; my objective is to develop an expert command of data analytics methodologies and tools to employ an ever-evolving robust problem-solving capability.  
 
 *   🌍  I'm based in London
 *   ✉️  You can contact me at [d.connolly@outlook.com](mailto:d.connolly@outlook.com)
@@ -12,5 +12,3 @@ Having recently finished a Level 3 Data Bootcamp, I seek my first role as a data
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
                     </p>
-                    
-https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
